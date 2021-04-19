@@ -29,20 +29,6 @@ class Contact extends Component {
 						<form action="" method="post" id="contactForm" name="contactForm">
 							<fieldset>
 								<div>
-									<label htmlFor="contactName">
-										Name <span className="required">*</span>
-									</label>
-									<input
-										type="text"
-										defaultValue=""
-										size="35"
-										id="contactName"
-										name="contactName"
-										onChange={this.handleChange}
-									/>
-								</div>
-
-								<div>
 									<label htmlFor="contactEmail">
 										Email <span className="required">*</span>
 									</label>
