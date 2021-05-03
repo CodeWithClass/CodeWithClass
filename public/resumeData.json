@@ -31,7 +31,7 @@
 		]
 	},
 	"resume": {
-		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"skillmessage": "Technical competencies",
 		"education": [
 			{
 				"school": "University of the West Indies",
@@ -68,32 +68,55 @@
 		],
 		"skills": [
 			{
-				"name": "Git",
-				"level": "60%"
+				"name": "angular"
 			},
 			{
-				"name": "Illustrator",
-				"level": "55%"
+				"name": "aws"
 			},
 			{
-				"name": "ReactJs",
-				"level": "50%"
+				"name": "bootstrap"
 			},
 			{
-				"name": "CSS",
-				"level": "90%"
+				"name": "CSS"
 			},
 			{
-				"name": "HTML5",
-				"level": "80%"
+				"name": "firebase"
 			},
 			{
-				"name": "VueJs",
-				"level": "50%"
+				"name": "flutter"
 			},
 			{
-				"name": "MongoDB",
-				"level": "80%"
+				"name": "git"
+			},
+			{
+				"name": "html"
+			},
+			{
+				"name": "ionic"
+			},
+			{
+				"name": "js"
+			},
+			{
+				"name": "laravel"
+			},
+			{
+				"name": "mysql"
+			},
+			{
+				"name": "node"
+			},
+			{
+				"name": "npm"
+			},
+			{
+				"name": "php"
+			},
+			{
+				"name": "react"
+			},
+			{
+				"name": "swift"
 			}
 		]
 	},
@@ -117,11 +140,12 @@
 				"image": "atria.jpg",
 				"url": "http://www.atria.coach"
 			},
+
 			{
-				"title": "Aspire for Change",
-				"category": "Aspire for channge Mobile App",
-				"image": "aspire.jpg",
-				"url": "https://aspire-for-change.web.app/"
+				"title": "BetterStreamsNow",
+				"category": "A better football streamer",
+				"image": "betterstreams.jpg",
+				"url": "https://betterstreamsnow.web.app/"
 			}
 		]
 	},

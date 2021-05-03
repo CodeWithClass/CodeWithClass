@@ -60,7 +60,7 @@ class Contact extends Component {
 									</label>
 									<textarea
 										cols="50"
-										rows="15"
+										rows="8"
 										id="contactMessage"
 										name="contactMessage"
 									></textarea>
