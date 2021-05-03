@@ -77,7 +77,7 @@
 				"name": "bootstrap"
 			},
 			{
-				"name": "CSS"
+				"name": "css"
 			},
 			{
 				"name": "firebase"
@@ -117,6 +117,9 @@
 			},
 			{
 				"name": "swift"
+			},
+			{
+				"name": "webpack"
 			}
 		]
 	},
