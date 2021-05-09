@@ -1,6 +1,11 @@
-# My Personal website 
+# My Personal website
 
 ## https://dominicevans.dev/
 
-Build using Create React App.
+Built using Create React App.
 
+# Commands
+
+- npm run dev
+- npm run build
+- firebase deploy
