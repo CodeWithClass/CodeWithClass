@@ -1,163 +1,161 @@
 {
-	"main": {
-		"name": "Dominic Evans",
-		"occupation": "Software Developer",
-		"description": "",
-		"image": "profilepic.jpg",
-		"bio": "Caribbean based software developer with a passion for building clean, efficent and maintainable software",
-		"contactmessage": "Feel free to shoot me a message!",
-		"email": "dominiccevans@gmail.com",
-		"address": {
-			"street": "",
-			"city": "Kingstown",
-			"state": "",
-			"zip": "zip",
-			"country": "St. Vincent and the Grenadiness"
-		},
-		"website": "#",
-		"resumedownload": "http://timbakerdev.com",
-		"social": [
-			{
-				"name": "linkedin",
-				"url": "https://www.linkedin.com/in/domev/",
-				"className": "fa fa-linkedin"
-			},
-
-			{
-				"name": "github",
-				"url": "http://github.com/codewithclass",
-				"className": "fa fa-github"
-			}
-		]
-	},
-	"resume": {
-		"skillmessage": "Technical competencies",
-		"education": [
-			{
-				"school": "University of the West Indies",
-				"degree": "BSc. Computer Science (Double)",
-				"graduated": "2017",
-				"description": "First Class Hons 3.7"
-			}
-		],
-		"work": [
-			{
-				"company": "University of the West Indies",
-				"title": "Web Developer",
-				"years": "2015-2017",
-				"description": "Rebuilt and updated web pages to use responsive modern designs, Improved UI and UX across university websites, Trained university staff in Kentico CMS."
-			},
-			{
-				"company": "Bitt Inc",
-				"title": "QA Engineer",
-				"years": "2017-2018",
-				"description": "Implemented automated testing with Selenium, Appium and Chakram, Manual tested mobile and web apps."
-			},
-			{
-				"company": "Bitt Inc ",
-				"title": "Software Engineer",
-				"years": "2018-2020",
-				"description": "Implemented features and maintain, mMoney React and React-native Apps, Developed ECCB iOS native Apps, Created and maintained unit tests"
-			},
-			{
-				"company": "CodeRehack",
-				"title": "Lead Software Engineer",
-				"years": "2020-Present",
-				"description": "Design full scale application architectures for clients in various countries, Develop and deploy software solutions, Work closely with clients to test and continually maintain their software."
-			}
-		],
-		"skills": [
-			{
-				"name": "angular"
-			},
-			{
-				"name": "aws"
-			},
-			{
-				"name": "bootstrap"
-			},
-			{
-				"name": "css"
-			},
-			{
-				"name": "firebase"
-			},
-			{
-				"name": "flutter"
-			},
-			{
-				"name": "git"
-			},
-			{
-				"name": "html"
-			},
-			{
-				"name": "ionic"
-			},
-			{
-				"name": "js"
-			},
-			{
-				"name": "laravel"
-			},
-			{
-				"name": "mysql"
-			},
-			{
-				"name": "node"
-			},
-			{
-				"name": "npm"
-			},
-			{
-				"name": "php"
-			},
-			{
-				"name": "react"
-			},
-			{
-				"name": "swift"
-			},
-			{
-				"name": "webpack"
-			}
-		]
-	},
-	"portfolio": {
-		"projects": [
-			{
-				"title": "ECTL SVG",
-				"category": "Website for legal organization",
-				"image": "ectl.jpg",
-				"url": "http://ectl-svg.com/index.php"
-			},
-			{
-				"title": "CodeRehack",
-				"category": "Offical CodeRehack website",
-				"image": "coderehack.jpg",
-				"url": "http://www.coderehack.com"
-			},
-			{
-				"title": "Atria",
-				"category": "Atria Mobile App",
-				"image": "atria.jpg",
-				"url": "http://www.atria.coach"
-			},
-
-			{
-				"title": "BetterStreamsNow",
-				"category": "A better football streamer",
-				"image": "betterstreams.jpg",
-				"url": "https://betterstreamsnow.web.app/"
-			}
-		]
-	},
-	"testimonials": {
-		"testimonials": [
-			{
-				"text": "Dominic Started at Bitt in the QA department and proved to be detailed and determined to understand the solutions. Because of his hard work he was moved onto a product team as a software engineer where he immediately proved his value by quickly contributing to a multi phase feature. \nDominic has the grit to dig into a problem while constantly communicating with his team. He understands the value of feedback both personally for himself and for the work itself. He is very personable and professional. I was lucky to have Dominic on our team at Bitt.",
-				"user": "Jake Mallory"
-			}
-		]
-	}
+  "main": {
+    "name": "Dominic Evans",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Caribbean based software developer with a passion for building clean, efficent and maintainable software",
+    "contactmessage": "Feel free to shoot me a message!",
+    "email": "dominiccevans@gmail.com",
+    "address": {
+      "street": "",
+      "city": "Kingstown",
+      "state": "",
+      "zip": "zip",
+      "country": "St. Vincent and the Grenadiness"
+    },
+    "website": "#",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/domev/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/codewithclass",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical competencies",
+    "education": [
+      {
+        "school": "University of the West Indies",
+        "degree": "BSc. Computer Science (Double)",
+        "graduated": "2017",
+        "description": "First Class Hons 3.7"
+      }
+    ],
+    "work": [
+      {
+        "company": "University of the West Indies",
+        "title": "Web Developer",
+        "years": "2015-2017",
+        "description": "Rebuilt and updated web pages to use responsive modern designs, Improved UI and UX across university websites, Trained university staff in Kentico CMS."
+      },
+      {
+        "company": "Bitt Inc",
+        "title": "QA Engineer",
+        "years": "2017-2018",
+        "description": "Implemented automated testing with Selenium, Appium and Chakram, Manual tested mobile and web apps."
+      },
+      {
+        "company": "Bitt Inc ",
+        "title": "Software Engineer",
+        "years": "2018-2020",
+        "description": "Implemented features and maintain, mMoney React and React-native Apps, Developed ECCB iOS native Apps, Created and maintained unit tests"
+      },
+      {
+        "company": "Cenedex Software Solutions",
+        "title": "Software Developer",
+        "years": "2020-2021",
+        "description": "Design full scale application architectures for clients in various countries, Develop and deploy software solutions, Work closely with clients to test and continually maintain their software."
+      },
+      {
+        "company": "Questrade",
+        "title": "Senior Software Engineer",
+        "years": "2021-Present",
+        "description": "Develop and maintain high performant REST endpoints for securities trading, Develop and maintain front-end web applications, Train and guide junior engineers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "angular"
+      },
+      {
+        "name": "aws"
+      },
+      {
+        "name": "bootstrap"
+      },
+      {
+        "name": "css"
+      },
+      {
+        "name": "firebase"
+      },
+      {
+        "name": "flutter"
+      },
+      {
+        "name": "git"
+      },
+      {
+        "name": "html"
+      },
+      {
+        "name": "ionic"
+      },
+      {
+        "name": "js"
+      },
+      {
+        "name": "laravel"
+      },
+      {
+        "name": "nest"
+      },
+      {
+        "name": "node"
+      },
+      {
+        "name": "npm"
+      },
+      {
+        "name": "mysql"
+      },
+      {
+        "name": "php"
+      },
+      {
+        "name": "react"
+      },
+      {
+        "name": "webpack"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ECTL SVG",
+        "category": "Website for legal organization",
+        "image": "ectl.jpg",
+        "url": "http://ectl-svg.com/index.php"
+      },
+      {
+        "title": "CodeRehack",
+        "category": "Offical CodeRehack website",
+        "image": "coderehack.jpg",
+        "url": "http://www.coderehack.com"
+      },
+      {
+        "title": "BetterStreamsNow",
+        "category": "A better football streamer",
+        "image": "betterstreams.jpg",
+        "url": "https://betterstreamsnow.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Dominic Started at Bitt in the QA department and proved to be detailed and determined to understand the solutions. Because of his hard work he was moved onto a product team as a software engineer where he immediately proved his value by quickly contributing to a multi phase feature. \nDominic has the grit to dig into a problem while constantly communicating with his team. He understands the value of feedback both personally for himself and for the work itself. He is very personable and professional. I was lucky to have Dominic on our team at Bitt.",
+        "user": "Jake Mallory"
+      }
+    ]
+  }
 }
