@@ -1,4 +1,4 @@
-### Hi there, I'm Dominic - aka [dominicevans.dev][website] 👋
+### Hi there, I'm Dominic👋
 
 [![Website](https://img.shields.io/website?label=dominicevans.dev&style=for-the-badge&url=https%3A%2F%2Fdominicevans.dev)](https://dominicevans.dev)
 
