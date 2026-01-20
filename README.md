@@ -36,6 +36,6 @@
 [website]: https://dominicevans.dev
 [linkedin]: https://linkedin.com/in/domev
 
-- npm run dev
+- npm run start
 - npm run build
 - firebase deploy
