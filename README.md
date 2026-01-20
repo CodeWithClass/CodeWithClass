@@ -33,9 +33,9 @@
 <br />
 <br />
 
-[website]: https://dominicevans.dev
+[website]: https://dominicevans.dev || https://dominicevans-resume.web.app/
 [linkedin]: https://linkedin.com/in/domev
 
-- npm run start
+- npm run dev
 - npm run build
 - firebase deploy
